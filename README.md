@@ -12,29 +12,35 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Data analysis on Atmospheric River events in California
 
 ## Authors
 
-[First Author](https://github.com/first-author1), [Second Author](https://github.com/second-author2), etc. _Acknowledge primary content authors here_
+Zuhayr Shahid Ishmam
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ishmamshahid">
+  <img src="https://i1.rgstatic.net/ii/profile.image/11431281637201968-1758064636009_Q128/Zuhayr-Shahid-Ishmam.jpg" />
 </a>
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two or more main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Introduction
 
 (Add content for this section, e.g., "The foundational content includes ... ")
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Datasets Description
 
-(Add content for this section, e.g., "Example workflows include ... ")
+PIKART, ERA5
+
+### Results
+(Add content for this section, e.g., "The foundational content includes ... ")
+
+
+
 
 ## Running the Notebooks
 

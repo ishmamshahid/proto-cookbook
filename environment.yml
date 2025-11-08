@@ -5,3 +5,20 @@ dependencies:
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - warnings
+  - xarray
+  - os
+  - urllib.request
+  - tqdm
+  - matplotlib
+  - cartopy
+  - numpy
+  - ipython
+  - plotly
+  - io
+  - pybase64
+  - pillow
+  - ipyleaflet
+  - ipywidgets
+  
+  

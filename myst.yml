@@ -4,9 +4,9 @@ extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   title: Prototype Project Repo
-  github: https://github.com/projectpythia/cookbook-template
+  github: https://github.com/ishmamshahid/proto-cookbook
   authors:
-    - name: Ishmam
+    - name: Zuhayr Shahid Ishmam
   copyright: '2025'
   toc:
     - file: README.md
@@ -16,9 +16,9 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
-    - title: Xarray Notebook
+    - title: Data analysis results
       children:
-	- file: notebooks/xarray.ipynb
+	- file: notebooks/AR_California.ipynb
   jupyter:
       binder:
-        repo: projectpythia/cookbook-template
+        repo: ishmamshahid/proto-cookbook
